@@ -1,0 +1,7 @@
+C:\Users\Yulissa Herrera\Downloads\repasos\Angulo de triangulo y circulo\obj\Debug\Angulo de triangulo y circulo.csproj.AssemblyReference.cache
+C:\Users\Yulissa Herrera\Downloads\repasos\Angulo de triangulo y circulo\obj\Debug\Angulo de triangulo y circulo.csproj.CoreCompileInputs.cache
+C:\Users\Yulissa Herrera\Downloads\repasos\Angulo de triangulo y circulo\bin\Debug\Angulo de triangulo y circulo.exe.config
+C:\Users\Yulissa Herrera\Downloads\repasos\Angulo de triangulo y circulo\bin\Debug\Angulo de triangulo y circulo.exe
+C:\Users\Yulissa Herrera\Downloads\repasos\Angulo de triangulo y circulo\bin\Debug\Angulo de triangulo y circulo.pdb
+C:\Users\Yulissa Herrera\Downloads\repasos\Angulo de triangulo y circulo\obj\Debug\Angulo de triangulo y circulo.exe
+C:\Users\Yulissa Herrera\Downloads\repasos\Angulo de triangulo y circulo\obj\Debug\Angulo de triangulo y circulo.pdb

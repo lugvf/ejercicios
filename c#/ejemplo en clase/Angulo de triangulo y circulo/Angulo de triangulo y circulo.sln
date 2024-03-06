@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angulo de triangulo y circulo", "Angulo de triangulo y circulo.csproj", "{78EB651D-04F8-410B-8F74-04E6EACD8547}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78EB651D-04F8-410B-8F74-04E6EACD8547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78EB651D-04F8-410B-8F74-04E6EACD8547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78EB651D-04F8-410B-8F74-04E6EACD8547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78EB651D-04F8-410B-8F74-04E6EACD8547}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68761FE5-FBE3-43AE-9CEA-B41D140F7E67}
+	EndGlobalSection
+EndGlobal
